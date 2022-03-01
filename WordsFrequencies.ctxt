@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WordsFrequencies
+comment1.params=
+comment1.target=WordsFrequencies()
+comment1.text=\n\ Constructor\ of\ WordsFrequencies\n
+comment2.params=
+comment2.target=void\ findUnique()
+comment2.text=\n\ findUnique\ should\ first\ clear\ both\ myWords\ and\ myFreqs,\ using\ \n\ the\ .clear()\ method.\ Then\ it\ selects\ a\ file\ and\ then\ iterates\ over\ \n\ every\ word\ in\ the\ file,\ putting\ the\ unique\ words\ found\ into\ myWords.\ \n\ For\ each\ word\ in\ the\ kth\ position\ of\ myWords,\ it\ puts\ the\ count\ of\ \n\ how\ many\ times\ that\ word\ occurs\ from\ the\ selected\ file\ into\ the\ kth\ \n\ position\ of\ myFreqs.\n\n\ @param\ \ \ \ \ \ none\n\ @return\ \ \ \ \ none\n
+comment3.params=
+comment3.target=int\ findIndexOfMax()
+comment3.text=\n\ findIndexOfMax\ returns\ an\ int\ that\ is\ the\ index\ location\ of\ the\ \n\ largest\ value\ in\ myFreqs.\ If\ there\ is\ a\ tie,\ then\ return\ the\ first\ \n\ such\ value.\n\ \n\ @param\ \ \ \ \ \ none\n\ @return\ \ \ \ \ maxIndex\n
+comment4.params=
+comment4.target=void\ tester()
+comment4.text=\n\ tester\ should\ call\ findUnique.\ Then\ print\ out\ the\ number\ of\ unique\ \n\ words,\ and\ for\ each\ unique\ word,\ print\ the\ frequency\ of\ each\ word\ and\ \n\ the\ word\n\n\ @param\ \ \ \ \ \ none\n\ @return\ \ \ \ \ none\n
+numComments=5
